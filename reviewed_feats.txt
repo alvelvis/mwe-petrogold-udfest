@@ -1,0 +1,112 @@
+a a medida em que	ADP DET NOUN ADP PRON	MWEPOS=SCONJ	mark	_ Definite=Def|Gender=Fem|Number=Sing|PronType=Art Gender=Fem|Number=Sing _ Gender=Fem|Number=Sing|PronType=Rel
+a a medida que	ADP DET NOUN SCONJ	MWEPOS=SCONJ	mark	_ Definite=Def|Gender=Fem|Number=Sing|PronType=Art Gender=Fem|Number=Sing _
+a as vezes	ADP DET NOUN	MWEPOS=ADV	obl	_ Definite=Def|Gender=Fem|Number=Plur|PronType=Art Gender=Fem|Number=Plur
+a exemplo de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Masc|Number=Sing _
+a favor de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Masc|Number=Sing _
+a fim de	ADP NOUN ADP	MWEPOS=SCONJ	mark	_ Gender=Masc|Number=Sing _
+a medida que	ADP NOUN SCONJ	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Sing _
+a não ser que	ADP ADV VERB SCONJ	MWEPOS=SCONJ	mark	_ Polarity=Neg VerbForm=Inf _
+a o contrário de	ADP DET NOUN ADP	MWEPOS=ADP	case	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing _
+a o invés de	ADP DET NOUN ADP	MWEPOS=ADP	case	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing _
+a o largo de	ADP DET NOUN ADP	MWEPOS=ADP	case	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing _
+a o longo de	ADP DET NOUN ADP	MWEPOS=ADP	case	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing _
+a o menos	ADP DET ADV	MWEPOS=ADV	advmod	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art _
+a o menos que	ADP DET ADV SCONJ	MWEPOS=SCONJ	mark	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art _ _
+a o passo que	ADP DET NOUN PRON	MWEPOS=SCONJ	mark	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing Gender=Masc|Number=Sing|PronType=Rel
+a o ponto de que	ADP DET NOUN ADP PRON	MWEPOS=SCONJ	mark	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing _ Gender=Masc|Number=Sing|PronType=Rel
+a o que	ADP PRON PRON	MWEPOS=SCONJ	mark	_ Gender=Masc|Number=Sing|PronType=Dem Gender=Masc|Number=Sing|PronType=Rel
+a o todo	ADP DET PRON	MWEPOS=ADV	obl	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing|PronType=Tot
+a partir de	ADP VERB ADP	MWEPOS=ADP	case	_ VerbForm=Inf _
+a principio	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing
+a princípio	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing
+a priori	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Fem|Number=Sing
+a respeito de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Masc|Number=Sing _
+a seguir	ADP VERB	MWEPOS=ADV	obl	_ VerbForm=Inf
+ainda que	ADV SCONJ	MWEPOS=SCONJ	mark	_ _
+além de	ADV ADP	MWEPOS=CCONJ	cc	_ _
+além de isso	ADV ADP PRON	MWEPOS=ADV	advmod	_ _ Gender=Masc|Number=Sing|PronType=Dem
+além de isto	ADV ADP PRON	MWEPOS=ADV	advmod	_ _ Gender=Masc|Number=Sing|PronType=Dem
+além de o mais	ADV ADP DET PRON	MWEPOS=ADV	advmod	_ _ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing|PronType=Ind
+além de o que	ADV ADP PRON PRON	MWEPOS=CCONJ	cc	_ _ Gender=Masc|Number=Sing|PronType=Dem Gender=Masc|Number=Sing|PronType=Rel
+além de o quê	ADV ADP DET NOUN	MWEPOS=ADV	advmod	_ _ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing
+apesar de	ADV ADP	MWEPOS=SCONJ	mark	_ _
+assim como	ADV ADP	MWEPOS=CCONJ	cc	_ _
+assim por diante	ADV ADP ADV	MWEPOS=ADV	conj	_ _ _
+assim que	ADV SCONJ	MWEPOS=SCONJ	mark	_ _
+assim sendo	ADV AUX	MWEPOS=ADV	advmod	_ VerbForm=Ger
+até que	ADP SCONJ	MWEPOS=SCONJ	mark	_ _
+bem como	ADV ADP	MWEPOS=CCONJ	cc	_ _
+cada vez mais	DET NOUN DET	MWEPOS=ADV	obl	Gender=Fem|Number=Sing|PronType=Ind Gender=Fem|Number=Sing Gender=Fem|Number=Sing|PronType=Ind
+caso contrário	SCONJ ADJ	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing
+cerca de	ADV ADP	MWEPOS=ADV	advmod	_ _
+com base em	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+com isso	ADP PRON	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing|PronType=Dem
+com relação a	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+com vistas a	ADP NOUN ADP	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Plur _
+como relação a	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+como também	ADV ADV	MWEPOS=CCONJ	cc	_ _
+de acordo com	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Masc|Number=Sing _
+de acordos com	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Masc|Number=Plur _
+de aí	ADP ADV	MWEPOS=ADV	obl	_ _
+de forma a	ADP NOUN ADP	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Sing _
+de forma que	ADP NOUN SCONJ	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Sing _
+de maneira a	ADP NOUN SCONJ	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Sing _
+de modo a	ADP NOUN ADP	MWEPOS=SCONJ	mark	_ Gender=Masc|Number=Sing _
+de modo que	ADP NOUN SCONJ	MWEPOS=SCONJ	mark	_ Gender=Masc|Number=Sing _
+de o que	ADP PRON PRON	MWEPOS=SCONJ	mark	_ Gender=Masc|Number=Sing|PronType=Dem Gender=Masc|Number=Sing|PronType=Rel
+de tal forma que	ADP DET NOUN SCONJ	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Sing|PronType=Ind Gender=Fem|Number=Sing _
+desde que	ADP SCONJ	MWEPOS=SCONJ	mark	_ _
+devido a	VERB ADP	MWEPOS=ADP	case	Gender=Masc|Number=Sing|VerbForm=Part _
+em a faixa de	ADP DET NOUN ADP	MWEPOS=ADP	case	_ Definite=Def|Gender=Fem|Number=Sing|PronType=Art Gender=Fem|Number=Sing _
+em a verdade	ADP DET NOUN	MWEPOS=ADV	obl	_ Definite=Def|Gender=Fem|Number=Sing|PronType=Art Gender=Fem|Number=Sing
+em direção a	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+em função de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+em geral	ADP ADJ	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing
+em o caso de	ADP DET NOUN ADP	MWEPOS=ADP	case	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing _
+em o entanto	ADP DET NOUN	MWEPOS=CCONJ	cc	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Sing
+em razão de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+em relação a	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+em relação as	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+em relação á	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+em seguida	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Fem|Number=Sing
+em separado	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing
+em termos de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Masc|Number=Plur _
+em torno de	ADP NOUN ADP	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing _
+em vez de	ADP NOUN ADP	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Sing _
+enquanto que	ADV SCONJ	MWEPOS=SCONJ	mark	_ _
+isto é	PRON AUX	MWEPOS=CCONJ	cc	Gender=Masc|Number=Sing|PronType=Dem Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+junto a	ADV ADP	MWEPOS=ADV	advmod	_ _
+já que	ADV SCONJ	MWEPOS=SCONJ	mark	_ _
+mesmo assim	ADV ADV	MWEPOS=ADV	advmod	_ _
+mesmo que	ADV SCONJ	MWEPOS=SCONJ	mark	_ _
+não que	ADV SCONJ	MWEPOS=ADV	advmod	_ _
+não só	ADV ADV	MWEPOS=ADV	advmod	Polarity=Neg _
+ou seja	CCONJ VERB	MWEPOS=CCONJ	cc	_ Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+para que	ADP SCONJ	MWEPOS=SCONJ	mark	_ _
+para tal	ADP ADV	MWEPOS=ADV	obl	_ _
+por causa de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+por conseguinte	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing
+por exemplo	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Masc|Number=Sing
+por exemplos	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Masc|Number=Plur
+por fim	ADP NOUN	MWEPOS=CCONJ	cc	_ Gender=Masc|Number=Sing
+por meio de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Masc|Number=Sing _
+por o menos	ADP DET NOUN	MWEPOS=ADV	obl	_ Definite=Def|Gender=Masc|Number=Sing|PronType=Art Gender=Masc|Number=Plur
+por parte de	ADP NOUN ADP	MWEPOS=ADP	case	_ Gender=Fem|Number=Sing _
+por sua vez	ADP DET NOUN	MWEPOS=ADV	obl	_ Gender=Fem|Number=Sing|PronType=Prs Gender=Masc|Number=Sing
+por vezes	ADP NOUN	MWEPOS=ADV	obl	_ Gender=Fem|Number=Plur
+quanto a	ADV ADP	MWEPOS=ADP	case	_ _
+quanto mais	ADV ADV	MWEPOS=SCONJ	mark	_ _
+sem que	ADP SCONJ	MWEPOS=SCONJ	mark	_ _
+sempre que	ADV SCONJ	MWEPOS=SCONJ	mark	_ _
+sendo assim	AUX ADV	MWEPOS=ADV	obl	VerbForm=Ger _
+sendo que	AUX SCONJ	MWEPOS=SCONJ	mark	VerbForm=Ger _
+tais como	DET ADP	MWEPOS=ADP	case	Gender=Fem|Number=Plur|PronType=Dem _
+tal como	ADV ADP	MWEPOS=SCONJ	mark	_ _
+tanto quanto	ADV ADV	MWEPOS=ADV	advmod	_ _
+tanto que	ADV SCONJ	MWEPOS=SCONJ	mark	_ Gender=Masc|Number=Plur|PronType=Rel
+toda vez que	DET ADP SCONJ	MWEPOS=SCONJ	mark	Gender=Fem|Number=Sing|PronType=Tot _ _
+um pouco	DET ADV	MWEPOS=ADV	obl	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art _
+uma vez em	ADP NOUN ADP	MWEPOS=SCONJ	mark	_ Gender=Fem|Number=Sing _
+uma vez que	DET NOUN SCONJ	MWEPOS=SCONJ	mark	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art Gender=Fem|Number=Sing _
+visto que	VERB SCONJ	MWEPOS=SCONJ	mark	Gender=Masc|Number=Sing|VerbForm=Part _
+é que	AUX SCONJ	MWEPOS=SCONJ	discourse	_ _
