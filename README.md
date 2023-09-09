@@ -4,3 +4,7 @@ Lexical resources developed during the annotation of MWEs in PetroGold v3 presen
 Paper: (soon)
 
 How to cite: (soon)
+
+all_reviewed.txt: list of 150 MWEs gathered from three different sources and manually revised
+
+all_feats.txt: list of the 112 MWEs found in the corpus with their correct annotation
